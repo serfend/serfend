@@ -1,6 +1,6 @@
 # Hello
 
-Hey there! My name is serfend, I‘m full-stack developer working on The Network Security Engineering and Computer Science at the beijing china. Pleased to meet you!
+Hey guys! I'm Serfend, a full-stack developer major in the Network Security Engineering and Computer Science from Beijing, China. Glad to meet you!
 
 ## Social Links
 
