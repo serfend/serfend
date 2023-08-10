@@ -1,23 +1,6 @@
-# Hello
+# Hello <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fserfend%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fserfend&labelColor=%23697689&countColor=%23ff8a65&style=plastic&labelStyle=none" /></a>
 
 Hey guys! I'm Serfend, a full-stack developer major in the Network Security Engineering and Computer Science from Beijing, China. Glad to meet you!
-
-## Social Links
-
-<div align="center">
-    <!-- 访客数统计徽标 --><img src="https://visitor-badge.glitch.me/badge?page_id=serfend" alt="访客统计" />
-      <a href="https://common.serfend.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://common.serfend.top/s/vcard">
-        <img alt="wechat" src="https://img.shields.io/badge/wechat-serfend-3fc04f?style=for-the-badge&logo=wechat&logoColor=white"/>
-    </a>
-    <a href="mailto:serfend@foxmail.com">
-        <img alt="mail" src="https://img.shields.io/badge/mail-serfend-1f99df?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://blog.csdn.net/m0_37157335">
-        <img src="https://img.shields.io/badge/csdn- serfend-fc5531.svg?&style=for-the-badge&logo=bloglovin&logoColor=white"/>
-    </a>
-</a>
-</div>
 
 ## Skills
 
