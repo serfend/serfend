@@ -1,6 +1,6 @@
 # Hello <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fserfend%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fserfend&labelColor=%23697689&countColor=%23ff8a65&style=plastic&labelStyle=none" /></a>
 
-Hey guys! I'm Serfend, a full-stack developer major in the Network Security Engineering and Computer Science from Beijing, China. Glad to meet you!
+Hey guys! I'm Serfend, a full-stack developer major in the Cyber Security Engineering and Computer Science from Beijing, China. Glad to meet you!
 
 ## Skills
 
